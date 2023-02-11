@@ -1,0 +1,8 @@
+visuals/twist_4.gif filter=lfs diff=lfs merge=lfs -text
+visuals/increase_in_pitch.gif filter=lfs diff=lfs merge=lfs -text
+visuals/pure_rotation_1.gif filter=lfs diff=lfs merge=lfs -text
+visuals/pure_rotation_2.gif filter=lfs diff=lfs merge=lfs -text
+visuals/pure_rotation_3.gif filter=lfs diff=lfs merge=lfs -text
+visuals/twist_1.gif filter=lfs diff=lfs merge=lfs -text
+visuals/twist_2.gif filter=lfs diff=lfs merge=lfs -text
+visuals/twist_3.gif filter=lfs diff=lfs merge=lfs -text
